@@ -1,0 +1,2 @@
+# Vehicle-to-vehicle-communication
+Our project promises a new technique of innovation from traffic efficiency, vehicle and human safety, infotainment, and enhanced services. Project based on multiple challenges including wireless communication coverage like efficient communication dissemination. The point of interaction between the several strapped entities composed of information replace through the endorsement of desirable communication protocols. 
